@@ -1,5 +1,5 @@
-# Focus YouTube
-**Focus YouTube** extension is most use to hide/block content for YouTube app. This app use for focus and distraction free YouTube browsing experience.
+# Focus Tuber
+**Focus Tuber** extension is most use to hide/block content for YouTube app. This app use for focus and distraction free YouTube browsing experience.
  
 
 **Download iOS Application**
